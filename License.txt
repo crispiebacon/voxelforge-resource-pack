@@ -13,3 +13,15 @@ Notices:
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+If you require extra agreement privileges. You must submit an issue on the github repo. 
+
+https://github.com/crispiebacon/voxelforge-resource-pack
+
+And I (crispiebacon) may or may not approve. If I do approve of your request. requests being defined as. Not giving credit. using for commercial purposes. And applying restrictions to your version. You must make sure to have proof of our agreement, by supplying a picture of the agreement in the issue, as well as a link back to the issue.  I will however under no circumstances approve of my images being available for download under add links, such as download links like adf.ly etc... You may ask for permission however. If you request permission to use this pack and not give credit back to me (crispiebacon). Your request will be denied. NO exceptions.
+
+By normal terms images must be modified at least. (and I mean at the very least) 20% from the original to be considered not the same image. This could mean anywhere from recoloring to complete pixel changes. Shape doesn't neccessarily matter.
+
+If you intend to use this for purposes such as in free games. Then you don't need any special permissions. Just follow the terms of the CC-BY-SA-NC 4.0 license.
+
+I hope you enjoy and have a great day :)
