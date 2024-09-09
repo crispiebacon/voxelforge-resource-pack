@@ -1,16 +1,22 @@
-License CC-BY-SA 4.0
+VoxelForge-Resource-Pack-Public-License 
 
-You are free to:
-Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-Under the following terms:
-Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-Notices:
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+(c) 2024 crispiebacon
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+What you are allowed to do: 
+redistribute
+It is prefered you don't sell any of these textures in a standalone pack or put any of these behind a website like adfoc.us, etc. Not a requirement but I'd prefer not.
+You can use these textures if you struggle to make them yourself. Or you just like the theme.
+You can use this in youtube videos and the like.
 
-I hope you enjoy and have a great day :)
+
+Requirments:
+You must redistribute with this license. File put in one of the files.
+You must give proper credit (Give credit to all people listed on the github contributors section for the repo, and give a link to the github repo. And all of this must be in a well defined place.)
+
+
+Notes:
+This license offers no waranty of any kind.
+This license may be subject to change at any time.
+This license allows for some commercial use. Ex. Videos and games using some assets.
+
+That being said. Enjoy the pack :)
